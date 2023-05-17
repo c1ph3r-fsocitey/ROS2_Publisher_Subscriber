@@ -12,7 +12,7 @@ To use this code, you will need to have ROS2 installed on your system. Follow th
 
 1. Clone the repository to your local machine:
    ```
-   git clone https://github.com/YOUR-USERNAME/ros2-news-pub-sub.git
+   git clone [https://github.com/YOUR-USERNAME/ros2-news-pub-sub.git](https://github.com/c1ph3r-fsocitey/ROS2_Publisher_Subscriber.git)
    ```
 2. Build the workspace:
    ```
